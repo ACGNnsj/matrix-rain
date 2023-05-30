@@ -1,0 +1,3 @@
+[submodule "goncurses"]
+	path = goncurses
+	url = https://github.com/ACGNnsj/goncurses
